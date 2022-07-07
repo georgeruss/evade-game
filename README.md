@@ -6,6 +6,6 @@ It is called "Evade".
 
 It is not fully complete, but it should run fairly well when imported.
 
-To play, download the .jar file. It is an executable.
+** To play, download the .jar file. It is an executable. **
 
 Enjoy!
